@@ -1,5 +1,8 @@
 # The Scoop
 
+##Introduction to Babel
+###Feel free to try if you new to Babel
+
 ## Project Overview
 
 In this project, you will build all of the routing and database logic for an article submission web app called The Scoop.
